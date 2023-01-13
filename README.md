@@ -1,7 +1,6 @@
  Hi there my name is Alireza 👋
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
--  💬 Ask me about ...
+- 🔭 I’m currently working on Improving myself
+- 🌱 I’m currently learning Front-End development
 - 📫 How to reach me: alirezabeidaghi1377@gmail.com
-- ⚡ truth about me: You are happy with me 
+- ⚡ truth about me: you will have happy time with me 
 
