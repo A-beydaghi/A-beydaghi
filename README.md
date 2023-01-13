@@ -1,5 +1,5 @@
-### Hi there my name is alireza 👋
-
+### Hi there my name is Alireza 👋
+- 🌱 I’m currently learning ...
 <!--
 **A-beydaghi/A-beydaghi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
