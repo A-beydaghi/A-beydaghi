@@ -1,4 +1,4 @@
-Hi there my name is Alireza 👋
+<h1 align="center">Hi there my name is Alireza 👋</h1>
 
 - 🔭 I’m currently working on Improving myself
 - 🌱 I’m currently learning Front-End development
