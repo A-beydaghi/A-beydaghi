@@ -43,17 +43,17 @@
       width="40"
       height="40"
     />
+  <!--Bootstarp-->
+   <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
+      alt="Bootstrap"
+      width="40"
+      height="40"
+    />
  <!-- Javascript -->
    <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
       alt="javascript"
-      width="40"
-      height="40"
-    />
- <!--Bootstarp-->
-   <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
-      alt="Bootstrap"
       width="40"
       height="40"
     />
