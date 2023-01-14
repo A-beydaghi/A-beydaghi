@@ -28,7 +28,14 @@
       height="40"
     />
  <!-- Tailwind CSS -->
- 
+  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
+      <img
+        src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg"
+        alt="tailwind"
+        width="40"
+        height="40"
+      />
+    </a>
  <!-- Git -->
     <img
       src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"
@@ -57,3 +64,4 @@
       width="40"
       height="40"
     />
+</p>
