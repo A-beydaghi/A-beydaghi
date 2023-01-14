@@ -45,7 +45,7 @@
     />
   <!--Bootstarp-->
    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
+      src="https://user-images.githubusercontent.com/120295221/212461316-892ef36e-9702-489a-b5a8-72023ebc097c.jpg"
       alt="Bootstrap"
       width="40"
       height="40"
