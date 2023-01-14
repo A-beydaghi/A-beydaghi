@@ -35,26 +35,26 @@
         height="40"
       />
     </a>
- <!-- Git -->
-    <img
-      src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"
-      alt="git"
-      width="40"
-      height="40"
-    />
-  <!--Bootstarp-->
-   <img
-      src="https://user-images.githubusercontent.com/120295221/212461316-892ef36e-9702-489a-b5a8-72023ebc097c.jpg"
-      alt="Bootstrap"
-      width="50"
-      height="40"
-    />
- <!-- React -->
+  <!-- React -->
   <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
       alt="react"
       width="40"
       height="40"
+    />
+ <!-- Git -->
+    <img
+      src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"
+      alt="git"
+      width="30"
+      height="30"
+    />
+  <!--Bootstarp-->
+   <img
+      src="https://user-images.githubusercontent.com/120295221/212461316-892ef36e-9702-489a-b5a8-72023ebc097c.jpg"
+      alt="Bootstrap"
+      width="40"
+      height="30"
     />
 </p>
 
